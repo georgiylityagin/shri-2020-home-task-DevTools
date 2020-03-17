@@ -71,6 +71,7 @@
   ![](img/block_loading.png)
   </details>
 
+
 ### Performance
 
 - профиль загрузки страницы лежит в репозитории - `performance-profile.json`
@@ -96,6 +97,12 @@
 
 - объём неиспользованного JS: 1.4 MB
 
+### Audits
+
+Запустил также audits для данной страницы, результаты ниже.
+
+![](img/audit_result.png)
+![](img/audit_opportunities.png)
 
 ## Бонус - CPU 4x slowdown + Slow 3G
 
